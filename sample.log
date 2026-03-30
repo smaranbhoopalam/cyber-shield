@@ -1,0 +1,28 @@
+046.101.124.074 
+130.211.015.150 
+117.14.173.72 
+80.94.92.167 
+176.120.22.17 
+161.35.87.209  
+45.148.10.192  
+39.98.173.163 
+179.97.31.33 
+20.198.83.136 
+23.128.248.46 – Known Tor Exit Node
+34.105.183.68 – Google Cloud Platform (Associated with abuse)
+34.141.245.25 – Google Cloud Platform (Associated with abuse)
+97.177.25.118 – High-risk IP sample
+104.185.200.183 – High-risk IP sample
+107.161.236.220 – High-risk IP sample
+108.86.181.20 – High-risk IP sample
+98.240.68.64 – High-risk IP sample
+135.26.163.4 – High-risk IP sample
+12.153.99.234 – High-risk IP sample
+8.8.8.8 / 8.8.4.4 – Google Public DNS
+1.1.1.1 – Cloudflare DNS
+13.107.42.16 – Microsoft 365
+34.239.194.194 – SuperAnnotate Service
+52.12.243.90 – Auth0 / Cloud Service
+54.145.227.59 – Auth0 / Cloud Service
+142.250.0.0/15 – Google Services Range
+13.64.0.0/13 
