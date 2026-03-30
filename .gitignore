@@ -1,0 +1,21 @@
+# env files
+.env
+.env.local
+.env.*
+backend/.env
+backend/.env.local
+frontend/.env.local
+
+# node
+node_modules/
+.next/
+
+# python
+__pycache__/
+venv/
+
+# logs
+*.log
+
+# OS
+.DS_Store
